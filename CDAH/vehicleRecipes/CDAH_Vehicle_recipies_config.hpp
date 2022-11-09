@@ -19,7 +19,7 @@ class CDAH_AbstractCraftingRecipe
 	requiredInteractionModelGroup = ""; // See CDAHInteractionModels
 	requiredInteractionVehicleGroup = ""; //CDAH VEHICLE REQUEST
 	requiresFire = 0; // inflamed object nearby
-	requiredVehicle = 0; 
+	requiresOcean = 0;
 	requiredBaseLevel = 0;
 }; 
  
