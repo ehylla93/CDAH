@@ -156,4 +156,45 @@ class CfgInteractionModels {
 			"slingload_01_ammo_f.p3d"
 		};
 	};
+	class MedicContainer {
+		name = "MedicContainer";
+		models[] = {
+			"Cargo20_IDAP_F.p3d"
+		};
+	};
+
+	class TankEngineStarter {
+		name = "TankEngineStarter";
+		models[] = {
+			"TankEngine_01_F.p3d"
+		};
+	};
+
+	class RadarGenerator {
+		name = "RadarGenerator";
+		models[] = {
+			"MobileRadar_01_generator_F.p3d"
+		};
+	};
+
+	class MultiDevice {
+		name = "MultiDevice";
+		models[] = {
+			"Device_disassembled_F.p3d"
+		};
+	};
+
+	class BombTrolley {
+		name = "BombTrolley";
+		models[] = {
+			"Land_Bomb_Trolley_01_F.p3d"
+		};
+	};
+
+	class MissileTrolley {
+		name = "MissileTrolley";
+		models[] = {
+			"Land_Missile_Trolley_02_F.p3d"
+		};
+	};
 };
