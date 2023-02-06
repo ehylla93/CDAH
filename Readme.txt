@@ -20,7 +20,5 @@ CDAH Objects:
 
 "CDAH_Anvil_F", "CDAH_CargoNet_F", "CDAH_DataTerminal_F", "CDAH_ToolTrolley_F", "CDAH_WeldingTrolley_F",
 "CDAH_EngineCrane_F", "CDAH_DieselGroundPowerUnit_F", "CDAH_SPP_Mirror_F", "CDAH_DP_Transformer_F",
-"CDAH_Repair_F", "CDAH_Fuel_F", "CDAH_JetEngine_F", "CDAH_Ammo_F", "CDAH_Medic_F", "CDAH_Medic_Preview",
-"CDAH_TankEngine_F", "CDAH_TankEngine_Preview", "CDAH_RadarGenerator_F", "CDAH_RadarGenerator_Preview",
-"CDAH_MultiDevice_F", "CDAH_MultiDevice_Preview", "CDAH_BombTrolley_F", "CDAH_BombTrolley_Preview",
-"CDAH_MissileTrolley_F", "CDAH_MissileTrolley_Preview"
+"CDAH_Repair_F", "CDAH_Fuel_F", "CDAH_JetEngine_F", "CDAH_Ammo_F", "CDAH_Medic_F", "CDAH_TankEngine_F",
+"CDAH_RadarGenerator_F", "CDAH_MultiDevice_F", "CDAH_BombTrolley_F", "CDAH_MissileTrolley_F"
